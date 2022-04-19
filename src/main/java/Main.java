@@ -3,3 +3,4 @@ public class Main {
         new com.github.hcsp.a.A().a();
     }
 }
+    git remote -v
